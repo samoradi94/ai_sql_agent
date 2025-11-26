@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy>=2.0
+jupyter
+openai
+langchain
+matplotlib
+seaborn

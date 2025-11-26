@@ -1,0 +1,9 @@
+# virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+database/analytics.database
