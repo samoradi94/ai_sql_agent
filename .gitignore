@@ -7,3 +7,14 @@ __pycache__/
 .ipynb_checkpoints/
 
 database/analytics.database
+
+models/
+
+*.bin
+*.pt
+*.ckpt
+*.gguf
+*.pdf
+*.db
+__pycache__/
+.ipynb_checkpoints/
