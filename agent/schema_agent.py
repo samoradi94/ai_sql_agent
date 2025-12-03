@@ -18,6 +18,10 @@ class SchemaAgent:
         query = f" Select * from {table_name} LIMIT {limit}"
         return pd.read_sql(query, con=self.engine)
 
+    def generate_and_run_query(self, user_input):
+        ''' 
+            user_input is the insight that the user want from the database. for example total sales of each product in each day?
+        '''
         
         
 

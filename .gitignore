@@ -18,3 +18,7 @@ models/
 *.db
 __pycache__/
 .ipynb_checkpoints/
+
+mlruns/
+mlartifacts/
+mlflow.log
